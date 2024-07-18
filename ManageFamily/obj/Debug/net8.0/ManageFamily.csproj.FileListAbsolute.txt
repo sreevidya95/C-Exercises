@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\ManageFamily\bin\Debug\net8.0\ManageFamily.exe
+D:\Users\sreevidya\source\repos\ManageFamily\bin\Debug\net8.0\ManageFamily.deps.json
+D:\Users\sreevidya\source\repos\ManageFamily\bin\Debug\net8.0\ManageFamily.runtimeconfig.json
+D:\Users\sreevidya\source\repos\ManageFamily\bin\Debug\net8.0\ManageFamily.dll
+D:\Users\sreevidya\source\repos\ManageFamily\bin\Debug\net8.0\ManageFamily.pdb
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.dll
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\refint\ManageFamily.dll
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.pdb
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ManageFamily.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\ManageFamily\obj\Debug\net8.0\ref\ManageFamily.dll

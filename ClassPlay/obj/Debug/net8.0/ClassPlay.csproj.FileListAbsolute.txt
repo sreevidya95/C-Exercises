@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\ClassPlay\bin\Debug\net8.0\ClassPlay.exe
+D:\Users\sreevidya\source\repos\ClassPlay\bin\Debug\net8.0\ClassPlay.deps.json
+D:\Users\sreevidya\source\repos\ClassPlay\bin\Debug\net8.0\ClassPlay.runtimeconfig.json
+D:\Users\sreevidya\source\repos\ClassPlay\bin\Debug\net8.0\ClassPlay.dll
+D:\Users\sreevidya\source\repos\ClassPlay\bin\Debug\net8.0\ClassPlay.pdb
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.dll
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\refint\ClassPlay.dll
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.pdb
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ClassPlay.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\ClassPlay\obj\Debug\net8.0\ref\ClassPlay.dll

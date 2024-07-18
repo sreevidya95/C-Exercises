@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.exe
+D:\Users\sreevidya\source\repos\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.deps.json
+D:\Users\sreevidya\source\repos\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.runtimeconfig.json
+D:\Users\sreevidya\source\repos\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.dll
+D:\Users\sreevidya\source\repos\FavoriteMovies\bin\Debug\net8.0\FavoriteMovies.pdb
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.dll
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\refint\FavoriteMovies.dll
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.pdb
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\FavoriteMovies.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\FavoriteMovies\obj\Debug\net8.0\ref\FavoriteMovies.dll

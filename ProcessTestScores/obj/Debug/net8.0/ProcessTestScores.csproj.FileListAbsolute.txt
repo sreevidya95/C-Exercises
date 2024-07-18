@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.exe
+D:\Users\sreevidya\source\repos\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.deps.json
+D:\Users\sreevidya\source\repos\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.runtimeconfig.json
+D:\Users\sreevidya\source\repos\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.dll
+D:\Users\sreevidya\source\repos\ProcessTestScores\bin\Debug\net8.0\ProcessTestScores.pdb
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.dll
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\refint\ProcessTestScores.dll
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.pdb
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ProcessTestScores.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\ProcessTestScores\obj\Debug\net8.0\ref\ProcessTestScores.dll

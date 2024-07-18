@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\NameAndAge\bin\Debug\net8.0\NameAndAge.exe
+D:\Users\sreevidya\source\repos\NameAndAge\bin\Debug\net8.0\NameAndAge.deps.json
+D:\Users\sreevidya\source\repos\NameAndAge\bin\Debug\net8.0\NameAndAge.runtimeconfig.json
+D:\Users\sreevidya\source\repos\NameAndAge\bin\Debug\net8.0\NameAndAge.dll
+D:\Users\sreevidya\source\repos\NameAndAge\bin\Debug\net8.0\NameAndAge.pdb
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.dll
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\refint\NameAndAge.dll
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.pdb
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\NameAndAge.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\NameAndAge\obj\Debug\net8.0\ref\NameAndAge.dll

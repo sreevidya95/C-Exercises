@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\day1-ex2\bin\Debug\net8.0\day1-ex2.exe
+D:\Users\sreevidya\source\repos\day1-ex2\bin\Debug\net8.0\day1-ex2.deps.json
+D:\Users\sreevidya\source\repos\day1-ex2\bin\Debug\net8.0\day1-ex2.runtimeconfig.json
+D:\Users\sreevidya\source\repos\day1-ex2\bin\Debug\net8.0\day1-ex2.dll
+D:\Users\sreevidya\source\repos\day1-ex2\bin\Debug\net8.0\day1-ex2.pdb
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.dll
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\refint\day1-ex2.dll
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.pdb
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\day1-ex2.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\day1-ex2\obj\Debug\net8.0\ref\day1-ex2.dll

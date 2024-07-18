@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\AddessDecypher\bin\Debug\net8.0\AddessDecypher.exe
+D:\Users\sreevidya\source\repos\AddessDecypher\bin\Debug\net8.0\AddessDecypher.deps.json
+D:\Users\sreevidya\source\repos\AddessDecypher\bin\Debug\net8.0\AddessDecypher.runtimeconfig.json
+D:\Users\sreevidya\source\repos\AddessDecypher\bin\Debug\net8.0\AddessDecypher.dll
+D:\Users\sreevidya\source\repos\AddessDecypher\bin\Debug\net8.0\AddessDecypher.pdb
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.dll
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\refint\AddessDecypher.dll
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.pdb
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\AddessDecypher.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\AddessDecypher\obj\Debug\net8.0\ref\AddessDecypher.dll

@@ -12,3 +12,11 @@ D:\Users\sreevidya\source\repos\PetStore\obj\Debug\net8.0\refint\PetStore.dll
 D:\Users\sreevidya\source\repos\PetStore\obj\Debug\net8.0\PetStore.pdb
 D:\Users\sreevidya\source\repos\PetStore\obj\Debug\net8.0\PetStore.genruntimeconfig.cache
 D:\Users\sreevidya\source\repos\PetStore\obj\Debug\net8.0\ref\PetStore.dll
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.sourcelink.json
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.dll
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\refint\PetStore.dll
+D:\Users\sreevidya\source\repos\C-Exercises\PetStore\obj\Debug\net8.0\PetStore.pdb

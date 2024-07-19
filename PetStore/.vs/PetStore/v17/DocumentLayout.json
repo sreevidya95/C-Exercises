@@ -3,32 +3,39 @@
   "WorkspaceRootPath": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetStore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\invenotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:invenotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\accessoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:accessoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\6645ccbc1699d6734742094fee28379568135333f8d1aadbf18cf8e7cdced0fb\\Invenotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\Invenotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Invenotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\aquariumitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:aquariumitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\ToyItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToyItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\toyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:toyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\CageItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CageItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|d:\\users\\sreevidya\\source\\repos\\petstore\\cageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D979A0-5A1A-448E-B37F-D446E870D0D1}|PetStore.csproj|solutionrelative:cageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\AquariumItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AquariumItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\FoodItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FoodItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\PetStore\\AccessoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccessoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +45,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "PetStore.csproj",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj",
+              "RelativeDocumentMoniker": "PetStore.csproj",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj",
+              "RelativeToolTip": "PetStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T17:08:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADMAAAAAxczMzEwWwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:39:14.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invenotory.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\6645ccbc1699d6734742094fee28379568135333f8d1aadbf18cf8e7cdced0fb\\Invenotory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\6645ccbc1699d6734742094fee28379568135333f8d1aadbf18cf8e7cdced0fb\\Invenotory.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\6645ccbc1699d6734742094fee28379568135333f8d1aadbf18cf8e7cdced0fb\\Invenotory.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\6645ccbc1699d6734742094fee28379568135333f8d1aadbf18cf8e7cdced0fb\\Invenotory.cs",
+              "ViewState": "AQIAAA0AAAAg/////38vwCcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:47:12.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ToyItem.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\ToyItem.cs",
               "RelativeDocumentMoniker": "ToyItem.cs",
@@ -50,12 +95,11 @@
               "RelativeToolTip": "ToyItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:58:07.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:58:07.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CageItem.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\CageItem.cs",
               "RelativeDocumentMoniker": "CageItem.cs",
@@ -63,25 +107,23 @@
               "RelativeToolTip": "CageItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:52:47.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:52:47.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Invenotory.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\Invenotory.cs",
               "RelativeDocumentMoniker": "Invenotory.cs",
               "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\Invenotory.cs",
               "RelativeToolTip": "Invenotory.cs",
-              "ViewState": "AQIAABoAAADAmpmZmRkdwCwAAAA1AAAA",
+              "ViewState": "AQIAABEAAABAMjMzM3MswBgAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:40:05.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:40:05.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AquariumItem.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\AquariumItem.cs",
               "RelativeDocumentMoniker": "AquariumItem.cs",
@@ -89,25 +131,11 @@
               "RelativeToolTip": "AquariumItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:56:46.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:56:46.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAC4AAADg0czMzOwwwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:39:14.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FoodItem.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\FoodItem.cs",
               "RelativeDocumentMoniker": "FoodItem.cs",
@@ -115,12 +143,11 @@
               "RelativeToolTip": "FoodItem.cs",
               "ViewState": "AQIAAAIAAAAAdmZmZmb0vw0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:42:10.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:42:10.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AccessoryItem.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\AccessoryItem.cs",
               "RelativeDocumentMoniker": "AccessoryItem.cs",
@@ -128,8 +155,7 @@
               "RelativeToolTip": "AccessoryItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:50:14.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:50:14.893Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.exe
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.deps.json
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.runtimeconfig.json
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\bin\Debug\net8.0\LINQandObjects.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.sourcelink.json
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\refint\LINQandObjects.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\LINQandObjects.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandObjects\LINQandObjects\obj\Debug\net8.0\ref\LINQandObjects.dll

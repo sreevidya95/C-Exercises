@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LINQandStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A4D9F3-3975-427E-876C-1E1BDB3E9D10}|LINQandStrings\\LINQandStrings.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\linqandstrings\\linqandstrings\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A4D9F3-3975-427E-876C-1E1BDB3E9D10}|LINQandStrings\\LINQandStrings.csproj|solutionrelative:linqandstrings\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A4D9F3-3975-427E-876C-1E1BDB3E9D10}|LINQandStrings\\LINQandStrings.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\linqandstrings\\linqandstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A4D9F3-3975-427E-876C-1E1BDB3E9D10}|LINQandStrings\\LINQandStrings.csproj|solutionrelative:linqandstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Linq.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LINQandStrings\\LINQandStrings\\Linq.cs",
+              "RelativeDocumentMoniker": "LINQandStrings\\Linq.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LINQandStrings\\LINQandStrings\\Linq.cs",
+              "RelativeToolTip": "LINQandStrings\\Linq.cs",
+              "ViewState": "AQIAABgAAABgAAAAAEAswCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:06:57.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LINQandStrings\\LINQandStrings\\Program.cs",
+              "RelativeDocumentMoniker": "LINQandStrings\\Program.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LINQandStrings\\LINQandStrings\\Program.cs",
+              "RelativeToolTip": "LINQandStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:06:19.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

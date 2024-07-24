@@ -1,0 +1,15 @@
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.exe
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.deps.json
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.runtimeconfig.json
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\bin\Debug\net8.0\LINQandStrings.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.sourcelink.json
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\refint\LINQandStrings.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\LINQandStrings.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\LINQandStrings\LINQandStrings\obj\Debug\net8.0\ref\LINQandStrings.dll

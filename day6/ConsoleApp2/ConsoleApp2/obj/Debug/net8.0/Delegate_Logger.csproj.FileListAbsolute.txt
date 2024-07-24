@@ -1,0 +1,15 @@
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Delegate_Logger.exe
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Delegate_Logger.deps.json
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Delegate_Logger.runtimeconfig.json
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Delegate_Logger.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Delegate_Logger.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.sourcelink.json
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\Delegate_Logger.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Delegate_Logger.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\Delegate_Logger.dll

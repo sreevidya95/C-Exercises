@@ -1,0 +1,15 @@
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Delegate_Math.exe
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Delegate_Math.deps.json
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Delegate_Math.runtimeconfig.json
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Delegate_Math.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Delegate_Math.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.sourcelink.json
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Delegate_Math.dll
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.pdb
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Delegate_Math.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\CsharpExercises\day6\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Delegate_Math.dll

@@ -1,0 +1,14 @@
+D:\Users\sreevidya\source\repos\SendMail\SendMail\bin\Debug\net8.0\SendMail.exe
+D:\Users\sreevidya\source\repos\SendMail\SendMail\bin\Debug\net8.0\SendMail.deps.json
+D:\Users\sreevidya\source\repos\SendMail\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+D:\Users\sreevidya\source\repos\SendMail\SendMail\bin\Debug\net8.0\SendMail.dll
+D:\Users\sreevidya\source\repos\SendMail\SendMail\bin\Debug\net8.0\SendMail.pdb
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.dll
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.pdb
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+D:\Users\sreevidya\source\repos\SendMail\SendMail\obj\Debug\net8.0\ref\SendMail.dll

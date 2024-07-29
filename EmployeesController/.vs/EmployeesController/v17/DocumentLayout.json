@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\employeescontroller\\employeescontroller\\models\\employeesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|solutionrelative:employeescontroller\\models\\employeesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\employeescontroller\\employeescontroller\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|solutionrelative:employeescontroller\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\employeescontroller\\employeescontroller\\employeescontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|solutionrelative:employeescontroller\\employeescontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\employeescontroller\\employeescontroller\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|solutionrelative:employeescontroller\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\employeescontroller\\employeescontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|solutionrelative:employeescontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\employeescontroller\\employeescontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECD56C7-A61B-4A21-A82E-A06FA26816EE}|EmployeesController\\EmployeesController.csproj|solutionrelative:employeescontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 238,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.http",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\EmployeesController.http",
+              "RelativeDocumentMoniker": "EmployeesController\\EmployeesController.http",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\EmployeesController.http",
+              "RelativeToolTip": "EmployeesController\\EmployeesController.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-29T09:12:00.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeesController\\appsettings.json",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\appsettings.json",
+              "RelativeToolTip": "EmployeesController\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T08:20:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesController\\Program.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\Program.cs",
+              "RelativeToolTip": "EmployeesController\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:15:47.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesDataStore.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\models\\EmployeesDataStore.cs",
+              "RelativeDocumentMoniker": "EmployeesController\\models\\EmployeesDataStore.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\models\\EmployeesDataStore.cs",
+              "RelativeToolTip": "EmployeesController\\models\\EmployeesDataStore.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAIAxwHQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:30:07.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeesController\\models\\Employee.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\models\\Employee.cs",
+              "RelativeToolTip": "EmployeesController\\models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:22:53.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:19:25.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeesController\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeesController\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABAAAADAMzMzM7MkwCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:16:13.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

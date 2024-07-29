@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\sreevidya\\source\\repos\\ManageFamily\\ManageFamily.csproj": {}
+    "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\ManageFamily\\ManageFamily.csproj": {}
   },
   "projects": {
-    "D:\\Users\\sreevidya\\source\\repos\\ManageFamily\\ManageFamily.csproj": {
+    "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\ManageFamily\\ManageFamily.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\sreevidya\\source\\repos\\ManageFamily\\ManageFamily.csproj",
+        "projectUniqueName": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\ManageFamily\\ManageFamily.csproj",
         "projectName": "ManageFamily",
-        "projectPath": "D:\\Users\\sreevidya\\source\\repos\\ManageFamily\\ManageFamily.csproj",
+        "projectPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\ManageFamily\\ManageFamily.csproj",
         "packagesPath": "D:\\Users\\sreevidya\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\sreevidya\\source\\repos\\ManageFamily\\obj\\",
+        "outputPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\ManageFamily\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\sreevidya\\AppData\\Roaming\\NuGet\\NuGet.Config",

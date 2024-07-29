@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\CityInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6780E7-F8A2-4871-8CC2-C0664E1C4813}|CityInfo\\CityInfo.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\cityinfo\\cityinfo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6780E7-F8A2-4871-8CC2-C0664E1C4813}|CityInfo\\CityInfo.csproj|solutionrelative:cityinfo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CityInfo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CityInfo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAEAAACAnJmZmZkewBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:03:24.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

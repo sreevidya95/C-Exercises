@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj": {}
+    "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\PetStore\\PetStore.csproj": {}
   },
   "projects": {
-    "D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj": {
+    "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\PetStore\\PetStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj",
+        "projectUniqueName": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\PetStore\\PetStore.csproj",
         "projectName": "PetStore",
-        "projectPath": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\PetStore.csproj",
+        "projectPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\PetStore\\PetStore.csproj",
         "packagesPath": "D:\\Users\\sreevidya\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\sreevidya\\source\\repos\\PetStore\\obj\\",
+        "outputPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\PetStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\sreevidya\\AppData\\Roaming\\NuGet\\NuGet.Config",

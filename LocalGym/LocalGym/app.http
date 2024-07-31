@@ -1,0 +1,21 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@schema=http
+@hostname=localhost
+@port=5087
+
+GET {{schema}}://{{hostname}}:{{port}}/members
+####
+GET {{schema}}://{{hostname}}:{{port}}/Trainer
+###
+POST {{schema}}://{{hostname}}:{{port}}/Trainer
+Content-Type:application/json
+{
+  "firstName": "Kasyap",
+  "lastName": "Sharma",
+  "speciality": "Weights",
+  "feePer30Minutes": 120.00,
+  "hireDate": "2024-07-31T14:20:27.400Z"
+}
+###
+@poiid = {{createpoi.response.body.id}}
+GET {{schema}}://{{hostname}}:{{port}}/{{poiid}}

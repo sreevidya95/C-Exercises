@@ -49,8 +49,7 @@
               "RelativeToolTip": "EmployeesController\\EmployeesController.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-29T09:12:00.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T09:12:00.965Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "EmployeesController\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-29T08:20:43.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T08:20:43.293Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "RelativeToolTip": "EmployeesController\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:15:47.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T07:15:47.871Z"
             },
             {
               "$type": "Document",
@@ -86,7 +83,7 @@
               "RelativeDocumentMoniker": "EmployeesController\\models\\EmployeesDataStore.cs",
               "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\EmployeesController\\EmployeesController\\models\\EmployeesDataStore.cs",
               "RelativeToolTip": "EmployeesController\\models\\EmployeesDataStore.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAIAxwHQAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAZ2ZmZmYEwAwAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T05:30:07.739Z",
               "EditorCaption": ""
@@ -101,8 +98,7 @@
               "RelativeToolTip": "EmployeesController\\models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T05:22:53.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T05:22:53.528Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "..\\CityInfo\\CityInfo\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T05:19:25.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T05:19:25.319Z"
             },
             {
               "$type": "Document",
@@ -127,8 +122,7 @@
               "RelativeToolTip": "EmployeesController\\Controllers\\EmployeesController.cs",
               "ViewState": "AQIAABAAAADAMzMzM7MkwCYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T05:16:13.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T05:16:13.586Z"
             }
           ]
         }

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LocalGym</name>
+    </assembly>
+    <members>
+        <member name="M:LocalGym.Controllers.GymController.GetMembers">
+            <summary>
+            returns all the memebers of gym 
+            </summary>
+            <returns>return all records from memebers</returns>
+        </member>
+        <member name="M:LocalGym.Controllers.GymController.GetMember(System.Int32)">
+            <summary>
+            returns the particular record of memeber that match with id
+            </summary>
+            <param name="memberId">give the id of the member</param>
+            <returns>return the data of the member that match with id</returns>
+        </member>
+        <member name="M:LocalGym.Controllers.SessionController.getsessionByMembers(System.Int32)">
+            <summary>
+            returns the session record that match with memeber id
+            </summary>
+            <param name="id">give memeber id</param>
+            <returns>produces the session data that matches with given member id</returns>
+        </member>
+        <member name="M:LocalGym.Controllers.SessionController.getsessionByTrainers(System.Int32)">
+            <summary>
+            returns the session data that match with trainer id
+            </summary>
+            <param name="id">give trainer id</param>
+            <returns>produces the session data that match with trainer id</returns>
+        </member>
+        <member name="M:LocalGym.Controllers.TrainerController.getTrainers">
+            <summary>
+            returs all the trainers data
+            </summary>
+            <returns>returs all the trainers data</returns>
+        </member>
+        <member name="M:LocalGym.Controllers.TrainerController.GetTrainer(System.Int32)">
+            <summary>
+            gives the data that match with given trainer id
+            </summary>
+            <param name="id">give trainer id</param>
+            <returns>gives the data that match with given trainer id</returns>
+        </member>
+        <member name="T:LocalGym.Migrations.cityinfoinitialmigration">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfoinitialmigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfoinitialmigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfoinitialmigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.cityinfo2">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.cityinfo3">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo3.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.cityinfo">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfo.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.cityinfoupdate1">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfoupdate1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfoupdate1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.cityinfoupdate1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Migrations.gyminfoupdate2">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.gyminfoupdate2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.gyminfoupdate2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LocalGym.Migrations.gyminfoupdate2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LocalGym.Models.Member">
+            <summary>
+            contains the details of memebers that took memebership in gym
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.Modelsample">
+            <summary>
+            returns Members information
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.ModelSession">
+            <summary>
+            returns session information
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.ModelTrainer">
+            <summary>
+            returns Trainer information
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.Session">
+            <summary>
+            returns session information
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.Trainer">
+            <summary>
+            returns info of the trainer
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.UpdateTrainer">
+            <summary>
+            Returns the Info of the trainers
+            </summary>
+        </member>
+        <member name="T:LocalGym.Models.UserModel">
+            <summary>
+            Returns the User info like username and password
+            </summary>
+        </member>
+    </members>
+</doc>

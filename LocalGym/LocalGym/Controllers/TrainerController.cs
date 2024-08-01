@@ -4,6 +4,7 @@ using LocalGym.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Update.Internal;
 using System.Linq.Expressions;
+using System.Net;
 
 namespace LocalGym.Controllers
 {
@@ -20,6 +21,8 @@ namespace LocalGym.Controllers
             this.gymInfo = gymInfo;
             this.mapper = mapper;
         }
+
+        
         /// <summary>
         /// returs all the trainers data
         /// </summary>
@@ -27,15 +30,20 @@ namespace LocalGym.Controllers
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<ActionResult<IEnumerable<ModelTrainer>>> getTrainers()
+        public async Task<ActionResult<IEnumerable<ModelTrainer>>> getTrainers(string message)
         {
             try
             {
                 var trainer = await gymInfo.GetTrainersAsync();
                 return Ok(mapper.Map<IEnumerable<ModelTrainer>>(trainer));
             }
-            catch (Exception ex) { 
-                return BadRequest(ex.Message);
+            catch (Exception ex) {
+                throw new ExceptionModel
+                {
+                    statusCode = HttpStatusCode.InternalServerError,
+                    message = ex.Message,
+                };
+               
             }
         }
         /// <summary>

@@ -31,7 +31,7 @@
             <param name="id">give trainer id</param>
             <returns>produces the session data that match with trainer id</returns>
         </member>
-        <member name="M:LocalGym.Controllers.TrainerController.getTrainers">
+        <member name="M:LocalGym.Controllers.TrainerController.getTrainers(System.String)">
             <summary>
             returs all the trainers data
             </summary>

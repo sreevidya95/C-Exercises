@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\services\\gyminforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\services\\gyminforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\models\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\iexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\iexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\localgym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\localgym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\profiles\\gymprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\profiles\\gymprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\localgym.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\localgym.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -35,42 +79,100 @@
       "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\models\\updatetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\updatetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|d:\\users\\sreevidya\\source\\repos\\csharpexercises\\localgym\\localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC507F26-7450-46B3-99BE-D4701719FCDD}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 169,
+      "VerticalTabListWidth": 249,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "GymInfoRepository.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Services\\GymInfoRepository.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Services\\GymInfoRepository.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Services\\GymInfoRepository.cs",
+              "RelativeToolTip": "LocalGym\\Services\\GymInfoRepository.cs",
+              "ViewState": "AQIAAC0AAAAAMzMzM7MwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:00:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IException.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\IException.cs",
+              "RelativeDocumentMoniker": "LocalGym\\IException.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\IException.cs",
+              "RelativeToolTip": "LocalGym\\IException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:22:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocalGym",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\LocalGym.csproj",
+              "RelativeDocumentMoniker": "LocalGym\\LocalGym.csproj",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\LocalGym.csproj",
+              "RelativeToolTip": "LocalGym\\LocalGym.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T07:11:51.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionModel.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\ExceptionModel.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Models\\ExceptionModel.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\ExceptionModel.cs",
+              "RelativeToolTip": "LocalGym\\Models\\ExceptionModel.cs",
+              "ViewState": "AQIAAAQAAAC+zMzMzIwmwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:23:41.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "LocalGym\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "LocalGym\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:12:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GymProfile.cs",
+              "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Profiles\\GymProfile.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Profiles\\GymProfile.cs",
+              "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Profiles\\GymProfile.cs",
+              "RelativeToolTip": "LocalGym\\Profiles\\GymProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:35:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LocalGym.http",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\LocalGym.http",
               "RelativeDocumentMoniker": "LocalGym\\LocalGym.http",
@@ -83,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\Member.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\Member.cs",
@@ -91,12 +193,11 @@
               "RelativeToolTip": "LocalGym\\Models\\Member.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:44:37.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:44:37.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Modelsample.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\Modelsample.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\Modelsample.cs",
@@ -104,12 +205,11 @@
               "RelativeToolTip": "LocalGym\\Models\\Modelsample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:44:24.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:44:24.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ModelSession.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\ModelSession.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\ModelSession.cs",
@@ -117,12 +217,11 @@
               "RelativeToolTip": "LocalGym\\Models\\ModelSession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:43:48.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:43:48.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ModelTrainer.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\ModelTrainer.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\ModelTrainer.cs",
@@ -130,12 +229,11 @@
               "RelativeToolTip": "LocalGym\\Models\\ModelTrainer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:43:46.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:43:46.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\Session.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\Session.cs",
@@ -143,25 +241,24 @@
               "RelativeToolTip": "LocalGym\\Models\\Session.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:43:17.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:43:17.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Trainer.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\Trainer.cs",
               "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\Trainer.cs",
               "RelativeToolTip": "LocalGym\\Models\\Trainer.cs",
-              "ViewState": "AQIAAAAAAADAAAAAAMAtwAsAAAA9AAAA",
+              "ViewState": "AQIAAA8AAACAzczMzAwiwAsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T13:42:24.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "UpdateTrainer.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\UpdateTrainer.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\UpdateTrainer.cs",
@@ -169,12 +266,11 @@
               "RelativeToolTip": "LocalGym\\Models\\UpdateTrainer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:42:00.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:42:00.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\UserModel.cs",
@@ -187,20 +283,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "TrainerController.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Controllers\\TrainerController.cs",
               "RelativeDocumentMoniker": "LocalGym\\Controllers\\TrainerController.cs",
               "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Controllers\\TrainerController.cs",
               "RelativeToolTip": "LocalGym\\Controllers\\TrainerController.cs",
-              "ViewState": "AQIAAB0AAACArZmZmZkcwCwAAABEAAAA",
+              "ViewState": "AQIAABsAAACArZmZmZkFwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T13:38:32.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "SessionController.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Controllers\\SessionController.cs",
               "RelativeDocumentMoniker": "LocalGym\\Controllers\\SessionController.cs",
@@ -213,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "GymController.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Controllers\\GymController.cs",
               "RelativeDocumentMoniker": "LocalGym\\Controllers\\GymController.cs",
@@ -221,30 +317,28 @@
               "RelativeToolTip": "LocalGym\\Controllers\\GymController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:28:32.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:28:32.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "LocalGym",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\LocalGym.csproj",
               "RelativeDocumentMoniker": "LocalGym\\LocalGym.csproj",
               "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\LocalGym.csproj",
               "RelativeToolTip": "LocalGym\\LocalGym.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T13:01:20.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:01:20.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Program.cs",
               "RelativeDocumentMoniker": "LocalGym\\Program.cs",
               "ToolTip": "D:\\Users\\sreevidya\\source\\repos\\CsharpExercises\\LocalGym\\LocalGym\\Program.cs",
               "RelativeToolTip": "LocalGym\\Program.cs",
-              "ViewState": "AQIAAA0AAAAgZ2ZmZqYowBAAAAABAAAA",
+              "ViewState": "AQIAAEAAAACAy8zMzMwowEkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T12:45:10.45Z",
               "EditorCaption": ""

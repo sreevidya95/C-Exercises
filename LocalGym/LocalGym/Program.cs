@@ -1,8 +1,13 @@
+using LocalGym;
 using LocalGym.GymDbContext;
+using LocalGym.Models;
 using LocalGym.Services;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json;
+using System.Net;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -45,9 +50,36 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseAuthentication();
-    
-app.UseHttpsRedirection();
+app.UseExceptionHandler(apperror =>
+{
+    apperror.Run(async Context =>
+    {
+        Context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+        Context.Response.ContentType = "application/json";
+        var contextFeature = Context.Features.Get<IExceptionHandlerFeature>();
+        if (contextFeature != null)
+        {
+            if (contextFeature.Error is IException e)
+            {
+                if (e.statusCode.HasValue)
+                {
+                    Context.Response.StatusCode = (int)e.statusCode.Value;
+                    await Context.Response.WriteAsync(new ExceptionModel().toJson());
+                }
 
+                
+            }
+            await Context.Response.WriteAsync(JsonConvert.SerializeObject(new
+            {
+                StatusCode = Context.Response.StatusCode,
+                Message = "something went wrong",
+            }));
+
+        }
+    });
+});
+app.UseHttpsRedirection();
+app.UseMiddleware<LocalGym.ExceptionHandlerMiddleware>();
 app.UseAuthorization();
 
 app.MapControllers();
